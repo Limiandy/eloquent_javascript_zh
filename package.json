@@ -1,0 +1,10 @@
+{
+  "name": "eloquent_javascript_zh",
+  "version": "1.0.0",
+  "description": "ELOQUENT JAVASCRIPT 中文翻译版",
+  "main": "index.js",
+  "repository": "git@github.com:Limiandy/eloquent_javascript_zh.git",
+  "author": "mengkai li",
+  "license": "MIT",
+  "private": false
+}

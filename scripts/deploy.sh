@@ -63,7 +63,7 @@ git init
 git checkout --orphan "${remote_branch}" # 积累无数次commit，不算分支
 
 git config user.name "${GITHUB_ACTOR}"
-git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+git config user.email "${GITHUB_ACTOR}@163.com"
 
 git remote rm origin || true
 git remote add origin "${remote_repo}"

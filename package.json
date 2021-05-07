@@ -7,7 +7,7 @@
   "author": "mengkai li",
   "license": "MIT",
   "private": false,
-  "homepage": "https://Limiandy.github.io/eloquent-javascript-zh",
+  "homepage": "https://limiandy.github.io/eloquent_javascript_zh/",
   "scripts": {
     "dev": "yarn serve",
     "serve": "vuepress dev src",

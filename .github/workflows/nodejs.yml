@@ -29,7 +29,7 @@ jobs:
 
       - name: 3. script deploy
         env:
-          ACCESS_TOKEN_DEPLOY: ${{secrets.DEPLOY_TOKEN}}
+          ACCESS_TOKEN_DEPLOY: ${{secrets.DEPLOY_KEY}}
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: ./src/.vuepress/dist
           CNAME: https://limiandy.github.io/eloquent_javascript_zh/
